@@ -1,0 +1,21 @@
+{
+    "name": "ArduinoMDNS",
+    "provides": "ArduinoMDNS.h",
+    "description": "mDNS Library for Arduino",
+    "version": "0.0.0",
+    "maintainer": "Arduino <info@arduino.cc>",
+    "category": "Communications",
+    "subcategory": "Networking",
+    "family": "all",
+    "core": "all",
+    "install": {
+        "ArduinoMDNS.h": "/",
+        "MDNS.cpp": "/",
+        "MDNS.h": "/",
+        "examples": "/",
+        "keywords.txt": "/",
+        "library.properties": "/",
+        "utility": "/"
+    },
+    "readme": "README.md"
+}
